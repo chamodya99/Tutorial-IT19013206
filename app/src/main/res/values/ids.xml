@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="num01" type="id">num01</item>
+    <item name="num02" type="id">num02</item>
+    <item name="custom_toast_layout" type="id" />
+</resources>
